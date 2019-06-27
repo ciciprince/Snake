@@ -1,2 +1,2 @@
 # Snake
-C programming course
+ZJU C programming course
